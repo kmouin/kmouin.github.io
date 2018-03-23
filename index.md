@@ -32,6 +32,16 @@
 
 
 
+**기숙사 식단**
+
+![190](https://kmouin.github.io/examples/기숙사_식단.jpg)
+
+기숙사 식단을 알 수 있습니다. (오늘 기준)
+
+[식단표 보기](http://www.kmou.ac.kr/dorm/main.do#widgDiv2)
+
+
+
 
 **190**
 
@@ -54,4 +64,6 @@
 
 
 **도움말**
+
 현재 페이지로 연결됩니다.
+
