@@ -6,21 +6,16 @@
 ### 명령어
 
 * 셔틀
-
 * 기숙사 식단
-
 * 2층 식단
-
+* 3층 식단
 * 5층 식단
-
 * 영도대교
-
 * 190
-
 * 도움말
 
 
-
+---
 
 **셔틀**
 
@@ -30,18 +25,47 @@
 
 [전체 시간표 보기](https://kmouin.github.io/images/shuttle.png)
 
-
+---
 
 **기숙사 식단**
 
-![190](https://kmouin.github.io/examples/기숙사_식단.jpg)
+![기숙사 식단](https://kmouin.github.io/examples/기숙사%20식단.jpg)
 
 기숙사 식단을 알 수 있습니다. (오늘 기준)
 
 [식단표 보기](http://www.kmou.ac.kr/dorm/main.do#widgDiv2)
 
+---
 
+**2층 식단**
 
+![2층 식단](https://kmouin.github.io/examples/2층%20식단.jpg)
+
+2층 식단을 알 수 있습니다. (오늘 기준)
+
+[식단표 보기](https://kmouin.github.io/images/2.png)
+
+---
+
+**3층 식단**
+
+![3층 식단](https://kmouin.github.io/examples/3층%20식단.jpg)
+
+3층 식단을 알 수 있습니다. (오늘 기준)
+
+[식단표 보기](https://kmouin.github.io/images/3.png)
+
+---
+
+**5층 식단**
+
+![5층 식단](https://kmouin.github.io/examples/5층%20식단.jpg)
+
+5층 식단을 알 수 있습니다. (오늘 기준)
+
+[식단표 보기](https://kmouin.github.io/images/5.png)
+
+---
 
 **190**
 
@@ -51,7 +75,7 @@
 
 [전체 시간표 보기](https://kmouin.github.io/images/190.png)
 
-
+---
 
 **영도대교**
 
@@ -61,9 +85,8 @@
 
 *186, 190, 30, 66, 8번 버스만 제공*
 
-
+---
 
 **도움말**
 
 현재 페이지로 연결됩니다.
-
