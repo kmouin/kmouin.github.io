@@ -1,0 +1,103 @@
+#uha_chat {
+  height: 100%; width: 100%;
+  margin: 0px; padding: 10px; padding-top: 50px; padding-bottom: 45px;
+  position: relative; top: 0px; left: 0px;
+  background: #FFFFFF; border: 1px solid #E0E0E0; box-sizing: border-box; border-radius: 0px;
+  border-top: 2px solid #ED5565;
+}
+#uha_chat_top_text {
+  position: absolute; top: 0px; left: 0px;
+  width: 100%; height: 40px; box-sizing: border-box;
+  line-height: 40px; vertical-align: middle; padding-left: 15px;
+  font-size: 13px; letter-spacing: 1px;
+  background: #F3F3F3; color: #222222;
+}
+#uha_chat_top_text a {
+  color: #555555; background: #FFFFFF;
+  padding: 2px; padding-left: 5px; padding-right: 5px;
+}
+#uha_chat_users_count {
+  color: #ED5565;
+}
+#uha_chat_btnclear {
+ display: none;
+}
+#uha_chat_btnsettings {
+  background: url('./settings.png') no-repeat;
+  margin: 4px;
+  background-size: 30px;
+  width: 30px;
+  height: 30px;
+  float: right;  
+  margin-left: 5px;
+}
+#uha_chat_opacity {
+  display: none;
+}
+#uha_chat_msgs {
+  width: 100%; height: 100%;
+  overflow-y: scroll; overflow-x: hidden;
+  color: #333333; font-size: 12px !important;
+  word-break: break-all; list-style-type: none;
+  margin: 0px; padding: 0px;
+}
+#uha_chat_msgs > li {
+  line-height: 18px; padding: 3px;
+  font-size: 12px !important;
+}
+#uha_chat_msgs > li:hover {
+  background: #eee;
+}
+#uha_chat_msgs > li > span {
+  font-size: 12px !important;
+  margin-right: 10px !important;
+}
+#uha_chat_msgs > li > span.member {
+  background: none; border: 0px !important;
+}
+#uha_chat_msgs > li > span.uha_info {
+  color: lightseagreen;
+}
+#uha_chat_msgs > li > span.delete {
+  display: none !important;
+}
+#uha_chat_msgs > li:hover > span.delete {
+  display: none !important;
+}
+#uha_chat_info {
+  position: absolute; z-index: 30000; top: 0px; left: 0px;
+  display: none; overflow: hidden;
+  background-color: #ffffff; border: 1px solid #dddddd;
+  padding: 2px; font-size: 11px;
+}
+#uha_chat_form {
+  position: absolute;
+  bottom: 0px; left: 0px;
+  width: 100%; height: 37px; box-sizing: border-box;
+  margin: 0px; padding: 5px;
+  background: #EEEEEE;
+}
+#uha_chat_form > div {
+  overflow: hidden;
+}
+#uha_chat_form > div > #uha_chat_input {
+  line-height: 16px; font-size: 14px; vertical-align: middle;
+  width: 100%; height: 26px;
+  color: #555555;
+  background: #FFFFFF !important; border: 1px solid #CCCCCC; border-radius: 0px !important;
+}
+#uha_chat_form > button {
+  height: 26px; width: 70px !important; float: right;
+  vertical-align: middle;
+  margin: 0px; padding: 0 px;
+  background: #FAFAFA; color: #333333;
+  border: 0px none; border-radius: 0px; border-top: 2px solid #ED5565;
+  font-size: 14px; text-align: center;
+}
+#uha_chat_form > button:hover{
+  background-color: #EEEEEE; color: #333333;
+  box-shadow: none;
+}
+.clear {
+  clear: both;
+}
