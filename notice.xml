@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item>
+		<keyboard>테스트</keyboard>
+		<text>테스트 텍스트입니다</text>
+		<photo_url>https://kmouin.github.io/images/2.png</photo_url>
+		<photo_width>735</photo_width>
+		<photo_height>628</photo_height>
+		<label>더 보기</label>
+		<url>https://kmouin.github.io/images/2.png</url>
+	</item>
+	<item>
+		<keyboard>테스트2</keyboard>
+		<text>테스트2 텍스트입니다</text>
+		<photo_url>https://kmouin.github.io/images/5.png</photo_url>
+		<photo_width>600</photo_width>
+		<photo_height>480</photo_height>
+		<label>더 보기2</label>
+		<url>https://kmouin.github.io/images/5.png</url>
+	</item>
+</items>
